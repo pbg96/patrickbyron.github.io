@@ -178,6 +178,7 @@ h6 {
   color: var(--clr-primary);
   border-style: none;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .btn-default:active {
