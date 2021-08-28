@@ -357,7 +357,7 @@ SMALL MOBILE
   margin: 0rem;
 }
 
-.hero-message > button {
+.hero-message > form {
   position: relative;
   top: 16px;
 }
